@@ -18,8 +18,4 @@
   6. Perguntar se o usuário deseja registrar uma nova compra ou finalizar;
   7. Caso ele deseje continuar, repetir os passos de 3 a 6, caso não, imprimir na tela o saldo final do cartão e a lista de compras realizadas, ordenadas pelo valor.
 
-## Observações:
-- Utilize a classe Scanner para fazer a leitura das informações do usuário;
-- Utilize construtores nas classes para passar as informações ao instanciar um objeto.
 
-Bom desafio!
